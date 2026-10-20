@@ -1,0 +1,9 @@
+{
+  "name": "genpark-redact-unredact-session-vault-skill",
+  "version": "1.0.1",
+  "description": "Bidirectional in-memory sensitive vault and surrogate token masker protecting credentials in LLM prompt exchanges",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
